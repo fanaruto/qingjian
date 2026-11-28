@@ -18,6 +18,10 @@
   ```zsh
   curl -fsSL https://app.webfooo.com/iClip/install.sh | zsh
   ```
+  或通过 **Homebrew Cask** 安装：
+  ```zsh
+  brew install --cask fanaruto/tap/iclip
+  ```
   自动从国内高速源下载并装入「应用程序」，绕过浏览器下载隔离标记，免除「无法验证开发者」弹窗。
 - **Windows 10 / 11（64 位纯 Rust Win32 原生版，约 1.2 MB）**：
   ```powershell
